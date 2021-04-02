@@ -1,0 +1,19 @@
+{
+  "appTitle": "Mobile",
+  "complain": "Mobile",
+  "login_title": "Đăng nhập",
+  "sign_in_app_content": "Hệ thống quản lý phản ánh và tương tác trực tuyến",
+  "login": "Đăng nhập",
+  "sign_in_please": "Vui lòng đăng nhập hệ thống",
+  "sign_in_please": "Vui lòng đăng nhập hệ thống",
+  "sign_in_password": "Nhập mật khẩu ",
+  "sign_in_failed": "Đăng nhập thất bại",
+  "home_title" : "Trang chủ",
+  "logout_title": "Đăng xuất",
+  "logout_title_warning": "Đăng xuất",
+  "developed_by_vnptit": "Phát triển bởi VNPT-IT",
+  "sign_in_username": "Nhập tên đăng nhập",
+  "sign_in_username_blank": "Tên đăng nhập rỗng",
+  "sign_in_password_blank": "Bạn chưa nhập mật khẩu",
+  "try_again_issue": "Có lỗi xảy ra vui lòng thử lại"
+}
